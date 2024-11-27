@@ -12,6 +12,11 @@ namespace BankingApp
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+
+            Console.WriteLine("Apple");
+            Console.WriteLine("Apple2");
+
+            Console.WriteLine("Chester");
         }
     }
 }
