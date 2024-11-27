@@ -17,6 +17,9 @@ namespace BankingApp
             Console.WriteLine("Apple2");
 
             Console.WriteLine("Chester");
+            Console.WriteLine("Gab");
+            Console.WriteLine("Gab2");
+            Console.WriteLine("Gab3");
         }
     }
 }
