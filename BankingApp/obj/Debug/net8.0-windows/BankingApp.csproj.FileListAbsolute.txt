@@ -1,0 +1,17 @@
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.exe
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.deps.json
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.runtimeconfig.json
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.dll
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.pdb
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.Form1.resources
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.csproj.GenerateResource.cache
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.AssemblyInfoInputs.cache
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.AssemblyInfo.cs
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.sourcelink.json
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.dll
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\refint\BankingApp.dll
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.pdb
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.genruntimeconfig.cache
+C:\Users\Apple Tacardon\Source\Repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\ref\BankingApp.dll
