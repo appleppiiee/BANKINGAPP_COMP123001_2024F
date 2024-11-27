@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cpb12\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer.GAB\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\BankingApp.csproj",
+      "projectUniqueName": "C:\\Users\\Acer.GAB\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\BankingApp.csproj",
       "projectName": "BankingApp",
-      "projectPath": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\BankingApp.csproj",
-      "packagesPath": "C:\\Users\\cpb12\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\obj\\",
+      "projectPath": "C:\\Users\\Acer.GAB\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\BankingApp.csproj",
+      "packagesPath": "C:\\Users\\Acer.GAB\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer.GAB\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cpb12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer.GAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
