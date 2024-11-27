@@ -14,6 +14,7 @@ namespace BankingApp
             Application.Run(new Form1());
 
             Console.WriteLine("Apple");
+            Console.WriteLine("Apple2");
         }
     }
 }
