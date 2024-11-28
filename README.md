@@ -12,8 +12,7 @@
   <li>Bugarin, Chester </li>
     <ul>
           <li>ExceptionEnum </li>         
-          <li>LoginEventArgs   </li>
-        
+          <li>LoginEventArgs   </li>        
           <li>Transaction </li>
           <li>SavingAccount   </li>
           <li>Utils </li>
