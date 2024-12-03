@@ -27,30 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer.GAB\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Program.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer.GAB\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Program.cs",
-              "RelativeToolTip": "BankingApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T23:18:36.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Acer.GAB\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:12:20.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Acer.GAB\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "BankingApp\\Form1.Designer.cs",
