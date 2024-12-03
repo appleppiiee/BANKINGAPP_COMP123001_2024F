@@ -22,6 +22,7 @@ namespace BankingApp
             Amount = amount;
             Originator = person;
             Time = time;
+            Console.WriteLine("test");
         }
 
         public override string ToString()

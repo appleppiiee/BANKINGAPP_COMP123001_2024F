@@ -17,6 +17,7 @@ namespace BankingApp
             : base("CK-", balance)
         {
             this.hasOverdraft = hasOverDraft;
+            Console.WriteLine("test");
         }
 
         public void DepOsit(decimal amount, Person person)

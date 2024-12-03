@@ -10,6 +10,7 @@ namespace BankingApp
     {
         void Widthraw(decimal amount, Person person)
         {
+            Console.WriteLine("test");
         }
 
         void Deposit(decimal amount, Person person)

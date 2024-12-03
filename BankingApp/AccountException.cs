@@ -12,6 +12,7 @@ namespace BankingApp
         public AccountException(ExceptionType reason)
             : base(reason.ToString())
         {
+            Console.WriteLine("test");
         }
     }
 }
