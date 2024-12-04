@@ -15,6 +15,7 @@ namespace BankingApp
 
         static Bank()
         {
+            Console.WriteLine("test");
             //initialize the USERS collection
             AddPerson("Narendra", "1234-5678");    //0
             AddPerson("Ilia", "2345-6789");        //1

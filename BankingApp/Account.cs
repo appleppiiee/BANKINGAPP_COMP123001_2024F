@@ -22,7 +22,8 @@ namespace BankingApp
 
         protected Account(string type, decimal balance)
         {
-            if(type != "VS-" && type != "SV-" && type != "CK-")
+            Console.WriteLine("test");
+            if (type != "VS-" && type != "SV-" && type != "CK-")
             {
                 throw new ArgumentException("Invalid account type. Must be 'VS-', 'SV-', or 'CK-'.");
             }
