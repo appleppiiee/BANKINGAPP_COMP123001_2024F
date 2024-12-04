@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.ApplicationServices;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
@@ -9,54 +11,41 @@ namespace BankingApp
 {
     public class CheckingAccount : Account, ITransaction
     {
-        private static decimal COST_PER_TRANSACTION = 0.05m;
-        private static decimal INTEREST_RATE = 0.005m;
-        private static bool hasOverDraft;
+        private const decimal COST_PER_TRANSACTION = 0.05m;
+        private const decimal INTEREST_RATE = 0.005m;
+        private readonly bool hasOverdraft;
 
-        public CheckingAccount(decimal balance = 0, bool hasOverDraft = false)
+        public CheckingAccount(decimal balance = 0, bool hasOverdraft = false)
             : base("CK-", balance)
         {
-            this.hasOverdraft = hasOverDraft;
-            Console.WriteLine("test");
+            this.hasOverdraft = hasOverdraft;
         }
 
-        public void DepOsit(decimal amount, Person person)
+        public new void Deposit(decimal amount, Person person)
         {
             base.Deposit(amount, person);
-            OnTransactionOccur(this, new TransactionEventArgs(person.Name, amount, true));
         }
 
-        public void Widthraw(decimal amount, Person person)
+        public void Withdraw(decimal amount, Person person)
         {
-            if (!IsPersonAssociated(person))
-            {
-                OnTransactionOccur(this, new TransactionEventArgs(person.Name, -amount, false));
-                throw new AccountException(ExceptionType.UnauthorizedAccess);
-            }
+            if (!users.Contains(person))
+                throw new AccountException(ExceptionType.NAME_NOT_ASSOCIATED_WITH_ACCOUNT);
 
-            if(!IsLoggedIn(person))
-            {
-                OnTransactionOccur(this, new TransactionEventArgs(person.Name, -amount, false));
-                throw new AccountException(ExceptionType.InsufficientFunds);
-            }
+            if (!person.IsAuthenticated)
+                throw new AccountException(ExceptionType.USER_NOT_LOGGED_IN);
 
-            if(amount > Balance && !hasOverDraft)
-            {
-                OnTransactionOccur(this, new TransactionEventArgs(person.Name, -amount, false));
-                throw new AccountException(ExceptionType.InsufficientFunds);
-            }
+            if (!hasOverdraft && Balance - amount < 0)
+                throw new AccountException(ExceptionType.NO_OVERDRAFT_FOR_THIS_ACCOUNT);
 
-            base.Deposit(-amount, person);
-            OnTransactionOccur(this, new TransactionEventArgs(person.Name, -amount, true));
+            base.Deposit(-amount, person); // Negative amount to reduce balance
         }
 
-
-        public override void PrepareMonthlyReport()
+        public override void PrepareMonthlyStatement()
         {
-            decimal serviceCharge = Transactions.Count * COST_PER_TRANSACTION;
+            decimal serviceCharge = transactions.Count * COST_PER_TRANSACTION;
             decimal interest = (LowestBalance * INTEREST_RATE) / 12;
             Balance += interest - serviceCharge;
-            TransactionScope.Clear();
+            transactions.Clear();
         }
     }
 }
