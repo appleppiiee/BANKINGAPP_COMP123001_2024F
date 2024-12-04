@@ -49,3 +49,13 @@ C:\Users\Acer.GAB\source\repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\
 C:\Users\Acer.GAB\source\repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.pdb
 C:\Users\Acer.GAB\source\repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.genruntimeconfig.cache
 C:\Users\Acer.GAB\source\repos\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\ref\BankingApp.dll
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.Form1.resources
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.csproj.GenerateResource.cache
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.AssemblyInfoInputs.cache
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.AssemblyInfo.cs
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.sourcelink.json
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.dll
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\refint\BankingApp.dll
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.pdb

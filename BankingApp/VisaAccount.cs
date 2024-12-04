@@ -8,7 +8,7 @@ using System.Transactions;
 
 namespace BankingApp
 {
-    public class VisaAccount
+    public class VisaAccount : Account
     {
         private const decimal INTEREST_RATE = 0.1995m;
         private readonly decimal creditLimit;

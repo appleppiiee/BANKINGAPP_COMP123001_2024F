@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankingApp
 {
-    class Person
+    public class Person
     {
         private string password;
 

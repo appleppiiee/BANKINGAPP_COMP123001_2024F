@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankingApp
 {
-    internal interface ITransaction
+    public interface ITransaction
     {
         void Widthraw(decimal amount, Person person);
 

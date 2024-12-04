@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BankingApp
 {
-    internal static class Bank
+    public static class Bank
     {
         private static readonly Dictionary<string, Account> ACCOUNTS;
         private static readonly Dictionary<string, Person> USERS;

@@ -7,7 +7,7 @@ using System.Transactions;
 
 namespace BankingApp
 {
-    internal abstract class Account
+    public abstract class Account
     {
         private static int LAST_NUMBER = 100_000;
         protected readonly List<Person> users;
@@ -55,14 +55,14 @@ namespace BankingApp
         //isuser
         public bool IsUser(string name)
         {
-            foreach(var user in users)
+            foreach(Person user in users)
             {
                 if(user.Name == name)
                 {
                     return true;
-                }
-                return false;
+                }                
             }
+            return true;
         }
         //ontrasactionOccur
         public virtual void OnTransactionOccur(object sender, EventArgs e)
@@ -81,7 +81,7 @@ namespace BankingApp
             {
                 result += $"-{user.Name}\n";
             }
-            result += $"Balance: {Balance:}\n";
+            result += $"Balance: {Balance:c2}\n";
             result += "Transactions:\n";
             foreach(var transaction in transactions)
             {
