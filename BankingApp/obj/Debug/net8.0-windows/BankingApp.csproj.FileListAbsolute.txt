@@ -59,3 +59,10 @@ C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\Bank
 C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.dll
 C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\refint\BankingApp.dll
 C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.pdb
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.exe
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.deps.json
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.runtimeconfig.json
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.dll
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\bin\Debug\net8.0-windows\BankingApp.pdb
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\BankingApp.genruntimeconfig.cache
+C:\Users\Apple Tacardon\source\repos\bankingapp\BANKINGAPP_COMP123001_2024F\BankingApp\obj\Debug\net8.0-windows\ref\BankingApp.dll

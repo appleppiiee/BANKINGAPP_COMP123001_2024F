@@ -19,12 +19,12 @@ namespace BankingApp
             this.creditLimit = creditLimit;
         }
 
-        public void DoPayment(decimal amount, Person person)
+        public void Pay(decimal amount, Person person)
         {
             base.Deposit(amount, person);
         }
 
-        public void DoPurchase(decimal amount, Person person)
+        public void Purchase(decimal amount, Person person)
         {
             if (!users.Contains(person))
                 throw new AccountException(ExceptionType.NAME_NOT_ASSOCIATED_WITH_ACCOUNT);
@@ -38,7 +38,7 @@ namespace BankingApp
             base.Deposit(-amount, person); // Negative amount to reduce balance
         }
 
-        public override void PrepareMonthlyStatement()
+        public override void PrepareMonthlyReport()
         {
             decimal interest = (LowestBalance * INTEREST_RATE) / 12;
             Balance -= interest;

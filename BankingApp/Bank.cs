@@ -10,8 +10,8 @@ namespace BankingApp
 {
     public static class Bank
     {
-        private static readonly Dictionary<string, Account> ACCOUNTS;
-        private static readonly Dictionary<string, Person> USERS;
+        public static readonly Dictionary<string, Account> ACCOUNTS;
+        public static readonly Dictionary<string, Person> USERS;
 
         static Bank()
         {
@@ -79,11 +79,17 @@ namespace BankingApp
 
         }
 
+        
         public static void AddUser(string name, string sin)
         {
-            var person = new Person(name);
+            Person person = new Person(name, sin);
             person.OnLogin += Logger.LoginHandler;
             USERS[sin] = person;
+        }
+
+        public static void AddPerson(string name, string sin)
+        {
+            AddUser(name, sin);
         }
         public static void AddAccount(Account account)
         {
@@ -93,25 +99,40 @@ namespace BankingApp
         public static void AddUserToAccount(string number, string name)
         {
             var account = GetAccount(number);
-            var user = GetUser(name);
+            var user = GetPerson(name);
             account.AddUser(user);
         }
+
         public static Account GetAccount(string number)
         {
-            if (ACCOUNTS.TryGetValue(number, out var account))
+            if (ACCOUNTS.Keys.Contains(number))
             {
-                return account;
+                return ACCOUNTS[number];
+            }
+            else
+            {
+                throw new AccountException(ExceptionType.ACCOUNT_DOES_NOT_EXIST);
             }
         }
-        public static Person GetUser(string name)
+        public static Person GetPerson(string name)
         {
-            foreach (var user in USERS.Values)
+            Person person = null;
+            foreach(String key in USERS.Keys)
             {
-                if (user.Name.Equals(name, StringComparison.OrdinalIgnoreCase))
+                if (USERS[key].Name.Equals(name))
                 {
-                    return user;
-                }
-            }            
+                    person = USERS[key]; 
+                    break;
+                }                
+            }    
+            if(person == null)
+            {
+                throw new AccountException(ExceptionType.USER_DOES_NOT_EXIST);
+            }
+            else
+            {
+                return person;
+            }
         }
         public static void SaveAccounts(string filename)
         {
@@ -132,6 +153,31 @@ namespace BankingApp
             }
             return allTransactions;
         }
+        public static List<Transaction> GetAllTransactions()
+        {
+            var allTransactions = new List<Transaction>();
+            foreach (var account in ACCOUNTS.Values)
+            {
+                allTransactions.AddRange(account.transactions);
+            }
+            return allTransactions;
+        }
+        public static void PrintAccounts()
+        {
+            int count = 0;
+            foreach(var account in ACCOUNTS.Values)
+            {
+                Console.WriteLine($"{count++,2}: {account}");
+            }
+        }
+        public static void PrintPersons()
+        {
+            int count = 0;
+            foreach (var person in USERS.Values)
+            {
+                Console.WriteLine($"{count++,2}: {person}");
+            }
+        }
+        
     }
-
 }

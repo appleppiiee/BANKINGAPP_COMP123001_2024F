@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\visaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\visaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\visaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\visaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\logineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\logineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\apple tacardon\\source\\repos\\bankingapp\\bankingapp_comp123001_2024f\\bankingapp\\transactioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\transactioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,73 +73,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 284,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 450,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountException.cs",
-              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\AccountException.cs",
-              "RelativeDocumentMoniker": "BankingApp\\AccountException.cs",
-              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\AccountException.cs",
-              "RelativeToolTip": "BankingApp\\AccountException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:57:59.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ITransaction.cs",
-              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\ITransaction.cs",
-              "RelativeDocumentMoniker": "BankingApp\\ITransaction.cs",
-              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\ITransaction.cs",
-              "RelativeToolTip": "BankingApp\\ITransaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:46:04.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DayTime.cs",
-              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\DayTime.cs",
-              "RelativeDocumentMoniker": "BankingApp\\DayTime.cs",
-              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\DayTime.cs",
-              "RelativeToolTip": "BankingApp\\DayTime.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:45:18.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Person.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Person.cs",
-              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Person.cs",
-              "RelativeToolTip": "BankingApp\\Person.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:44:56.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VisaAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\VisaAccount.cs",
-              "RelativeDocumentMoniker": "BankingApp\\VisaAccount.cs",
-              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\VisaAccount.cs",
-              "RelativeToolTip": "BankingApp\\VisaAccount.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:40:16.201Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -115,29 +90,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Account.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Account.cs",
-              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Account.cs",
-              "RelativeToolTip": "BankingApp\\Account.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BankingApp\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\SavingAccount.cs",
+              "RelativeToolTip": "BankingApp\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:38:00.097Z",
+              "WhenOpened": "2024-12-04T22:16:00.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Program.cs",
+              "RelativeToolTip": "BankingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:05:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Bank.cs",
               "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Bank.cs",
               "RelativeDocumentMoniker": "BankingApp\\Bank.cs",
               "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Bank.cs",
               "RelativeToolTip": "BankingApp\\Bank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAMwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T02:32:46.497Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\LoginEventArgs.cs",
+              "RelativeDocumentMoniker": "BankingApp\\LoginEventArgs.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\LoginEventArgs.cs",
+              "RelativeToolTip": "BankingApp\\LoginEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:05:18.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\AccountType.cs",
+              "RelativeDocumentMoniker": "BankingApp\\AccountType.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\AccountType.cs",
+              "RelativeToolTip": "BankingApp\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:05:06.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Utils.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Utils.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Utils.cs",
+              "RelativeToolTip": "BankingApp\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:28:05.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Account.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Account.cs",
+              "RelativeToolTip": "BankingApp\\Account.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:38:00.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountException.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\AccountException.cs",
+              "RelativeDocumentMoniker": "BankingApp\\AccountException.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\AccountException.cs",
+              "RelativeToolTip": "BankingApp\\AccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:57:59.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Person.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Person.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Person.cs",
+              "RelativeToolTip": "BankingApp\\Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:44:56.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\ITransaction.cs",
+              "RelativeDocumentMoniker": "BankingApp\\ITransaction.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\ITransaction.cs",
+              "RelativeToolTip": "BankingApp\\ITransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:46:04.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisaAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\VisaAccount.cs",
+              "RelativeDocumentMoniker": "BankingApp\\VisaAccount.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\VisaAccount.cs",
+              "RelativeToolTip": "BankingApp\\VisaAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:40:16.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Logger.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Logger.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Logger.cs",
+              "RelativeToolTip": "BankingApp\\Logger.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:05:19.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "BankingApp\\CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\CheckingAccount.cs",
+              "RelativeToolTip": "BankingApp\\CheckingAccount.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:17:54.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DayTime.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\DayTime.cs",
+              "RelativeDocumentMoniker": "BankingApp\\DayTime.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\DayTime.cs",
+              "RelativeToolTip": "BankingApp\\DayTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:00:36.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Transaction.cs",
+              "RelativeToolTip": "BankingApp\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:03:43.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\TransactionEventArgs.cs",
+              "RelativeDocumentMoniker": "BankingApp\\TransactionEventArgs.cs",
+              "ToolTip": "C:\\Users\\Apple Tacardon\\source\\repos\\bankingapp\\BANKINGAPP_COMP123001_2024F\\BankingApp\\TransactionEventArgs.cs",
+              "RelativeToolTip": "BankingApp\\TransactionEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:03:38.377Z"
             }
           ]
         }

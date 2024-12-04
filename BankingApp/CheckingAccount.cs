@@ -40,7 +40,7 @@ namespace BankingApp
             base.Deposit(-amount, person); // Negative amount to reduce balance
         }
 
-        public override void PrepareMonthlyStatement()
+        public override void PrepareMonthlyReport()
         {
             decimal serviceCharge = transactions.Count * COST_PER_TRANSACTION;
             decimal interest = (LowestBalance * INTEREST_RATE) / 12;

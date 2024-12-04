@@ -43,7 +43,7 @@ namespace BankingApp
             {
                 LowestBalance = Balance;
             }
-            var transaction = new Transaction(Number, Utils.Now(),amount, person);
+            var transaction = new Transaction(Number, amount, person, Utils.Now);
             transactions.Add(transaction);
             OnTransactionOccur(this, EventArgs.Empty);
         }       
@@ -51,6 +51,10 @@ namespace BankingApp
         public void AddUser(Person person)
         {
             users.Add(person);
+        }
+        public void AddPerson(Person person )
+        {
+            AddUser(person);
         }
         //isuser
         public bool IsUser(string name)
@@ -70,7 +74,7 @@ namespace BankingApp
 
         }
         //preparemonthlystatement
-        public abstract void PrepareMonthlyStatement();
+        public abstract void PrepareMonthlyReport();
 
         //tostring
         public override string ToString()

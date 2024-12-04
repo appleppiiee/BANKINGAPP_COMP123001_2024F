@@ -8,7 +8,7 @@ namespace BankingApp
 {
     public interface ITransaction
     {
-        void Widthraw(decimal amount, Person person);
+        void Withdraw(decimal amount, Person person);
 
         void Deposit(decimal amount, Person person);
         
