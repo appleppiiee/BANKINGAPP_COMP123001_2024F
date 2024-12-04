@@ -8,15 +8,9 @@ namespace BankingApp
 {
     internal interface ITransaction
     {
-        void Widthraw(decimal amount, Person person)
-        {
-            Console.WriteLine("test");
-        }
+        void Widthraw(decimal amount, Person person);
 
-        void Deposit(decimal amount, Person person)
-        {
-        }
-
+        void Deposit(decimal amount, Person person);
         
     }
 }
