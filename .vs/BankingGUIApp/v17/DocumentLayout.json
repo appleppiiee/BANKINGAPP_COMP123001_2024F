@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\",
+  "WorkspaceRootPath": "C:\\Users\\ayush\\source\\repos\\appleppiiee\\BANKINGAPP_COMP123001_2024F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\cpb12\\source\\repos\\bankingapp_comp123001_2024f\\bankingapp\\exceptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\exceptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\cpb12\\source\\repos\\bankingapp_comp123001_2024f\\bankingapp\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\cpb12\\source\\repos\\bankingapp_comp123001_2024f\\bankingapp\\logineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\logineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\cpb12\\source\\repos\\bankingapp_comp123001_2024f\\bankingapp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\cpb12\\source\\repos\\bankingapp_comp123001_2024f\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\ayush\\source\\repos\\appleppiiee\\bankingapp_comp123001_2024f\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\cpb12\\source\\repos\\bankingapp_comp123001_2024f\\bankingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|C:\\Users\\ayush\\source\\repos\\appleppiiee\\BANKINGAPP_COMP123001_2024F\\bankingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\bankingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|c:\\users\\ayush\\source\\repos\\appleppiiee\\bankingapp_comp123001_2024f\\bankingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26342BA-72B3-4058-92D5-137882B6D92C}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,105 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 284,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExceptionType.cs",
-              "DocumentMoniker": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\ExceptionType.cs",
-              "RelativeDocumentMoniker": "BankingApp\\ExceptionType.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\ExceptionType.cs",
-              "RelativeToolTip": "BankingApp\\ExceptionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\appleppiiee\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:26:26.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Transaction.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Transaction.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Transaction.cs",
-              "RelativeToolTip": "BankingApp\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:19:30.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T00:12:20.918Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginEventArgs.cs",
-              "DocumentMoniker": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\LoginEventArgs.cs",
-              "RelativeDocumentMoniker": "BankingApp\\LoginEventArgs.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\LoginEventArgs.cs",
-              "RelativeToolTip": "BankingApp\\LoginEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:16:00.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SavingAccount.cs",
-              "DocumentMoniker": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\SavingAccount.cs",
-              "RelativeDocumentMoniker": "BankingApp\\SavingAccount.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\SavingAccount.cs",
-              "RelativeToolTip": "BankingApp\\SavingAccount.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:12:54.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Program.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Program.cs",
-              "RelativeToolTip": "BankingApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T23:18:36.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs",
-              "RelativeDocumentMoniker": "BankingApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.cs [Design]",
-              "RelativeToolTip": "BankingApp\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:12:20.918Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\appleppiiee\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "BankingApp\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\cpb12\\source\\repos\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\appleppiiee\\BANKINGAPP_COMP123001_2024F\\BankingApp\\Form1.Designer.cs",
               "RelativeToolTip": "BankingApp\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:10:27.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T00:10:27.285Z"
             }
           ]
         }
