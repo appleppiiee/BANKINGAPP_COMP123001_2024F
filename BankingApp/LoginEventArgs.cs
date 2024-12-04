@@ -17,5 +17,4 @@ namespace BankingApp
             Success = success;
         }
     }
-
 }
