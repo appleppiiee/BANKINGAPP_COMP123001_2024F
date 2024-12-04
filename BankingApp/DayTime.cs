@@ -8,27 +8,35 @@ using System.Transactions;
 
 namespace BankingApp
 {
+    using System;
+
     public struct DayTime
     {
-        string AccountNumber { get; }
-        decimal Amount { get; }
-        Person Originator { get; }
-        DayTime Time { get; }
+        private long minutes;
 
-
-        public Transaction(string accountNumber, decimal amount, Person person, DayTime time)
+        public DayTime(long minutes)
         {
-            AccountNumber = accountNumber;
-            Amount = amount;
-            Originator = person;
-            Time = time;
-            Console.WriteLine("test");
+            this.minutes = minutes;
+        }
+
+        public static DayTime operator +(DayTime lhs, int additionalMinutes)
+        {
+            return new DayTime(lhs.minutes + additionalMinutes);
         }
 
         public override string ToString()
         {
-            string transactionType = Amount >= 0 ? "Deposit" : "Withdraw";
-            return $"{transactionType}: Account {AccountNumber}, Name: {Originator.Name}, Amount: {Amount:$}, Time: {Time}"
+            long totalMinutes = minutes;
+            int years = (int)(totalMinutes / 518_400);
+            totalMinutes %= 518_400;
+            int months = (int)(totalMinutes / 43_200);
+            totalMinutes %= 43_200;
+            int days = (int)(totalMinutes / 1_440);
+            totalMinutes %= 1_440;
+            int hours = (int)(totalMinutes / 60);
+            int mins = (int)(totalMinutes % 60);
+
+            return $"{years:D4}-{months + 1:D2}-{days + 1:D2} {hours:D2}:{mins:D2}";
         }
     }
 }
