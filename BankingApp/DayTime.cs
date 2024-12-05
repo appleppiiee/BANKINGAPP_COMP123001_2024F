@@ -13,30 +13,25 @@ namespace BankingApp
     public struct DayTime
     {
         private long minutes;
-
-        public DayTime(long minutes)
-        {
-            this.minutes = minutes;
-        }
-
-        public static DayTime operator +(DayTime lhs, int additionalMinutes)
-        {
-            return new DayTime(lhs.minutes + additionalMinutes);
-        }
+        public DayTime(long minutes) => this.minutes = minutes;
 
         public override string ToString()
         {
-            long totalMinutes = minutes;
-            int years = (int)(totalMinutes / 518_400);
-            totalMinutes %= 518_400;
-            int months = (int)(totalMinutes / 43_200);
-            totalMinutes %= 43_200;
-            int days = (int)(totalMinutes / 1_440);
-            totalMinutes %= 1_440;
-            int hours = (int)(totalMinutes / 60);
-            int mins = (int)(totalMinutes % 60);
+            long minutes_in_year = 12 * 30 * 24 * 60;
+            long minutes_in_month = 30 * 24 * 60;
+            long minutes_in_day = 24 * 60;
+            long minutes_in_hour = 60;
 
-            return $"{years:D4}-{months + 1:D2}-{days + 1:D2} {hours:D2}:{mins:D2}";
+            long years = minutes / minutes_in_year;
+            long remaining = minutes % minutes_in_year;
+            long months = remaining / minutes_in_month;
+            remaining %= minutes_in_month;
+            long days = remaining / minutes_in_day;
+            remaining %= minutes_in_day;
+            long hours = remaining / minutes_in_hour;
+            long mins = remaining % minutes_in_hour;
+
+            return $"{years + 2023}/{months + 1}/{days + 1} {hours:D2}:{mins:D2}";
         }
     }
 }
